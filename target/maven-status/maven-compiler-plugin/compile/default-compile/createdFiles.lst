@@ -10,6 +10,7 @@ Enumerated\gender.class
 InheritancAndPolymorphism\Salaried_Employee.class
 abstractClasses\Salaried_Employee.class
 Collection\Arraylist.class
+Collection\StackClass.class
 Constructor\main.class
 Constructor\PrivateConstructor.class
 Constructor\ParameterizedConstructor.class
